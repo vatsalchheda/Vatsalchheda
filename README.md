@@ -1,6 +1,6 @@
 ### Hi there I'm Vatsal Chheda
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalchheda&&label=STALKERS" alt="Rohan Kacheria" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalchheda&&label=STALKERS" alt="Vatsal Chheda" /> </p>
 <p>I'm currently a Computer Science Student at Dwarkadas J Sanghvi College of Engineering.
 I am the Vice Chairperson of Logistics at DJ ACM 
 I am a full stack Web Developer, NLP, Machine Learning Engineer and a Deep Learning Enthusiast.

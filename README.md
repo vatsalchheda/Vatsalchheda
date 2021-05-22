@@ -11,18 +11,6 @@ This is a simple profile page  made using HTML,CSS,Bootstrap and a bit of Javasc
   Projects :- I have included my projects which I made while I was learning HTML,CSS and Bootstrap. Feel free to check that out.
   Miscellaneous :- I have added a button to navigate you to top which will get enabled automatically as soon as you scroll down.
  ```
-## Getting Started
-Download all the files in the repository using the pull request and make sure to put them in same folder
-
-### Prerequisites
-```
-You should have a HTML Viewer or a Browser as well as Internet connection for a better user experience
-```
-
-### Installing
-```
-You dont have to install any extra softwre or anything. You just have to open the .html file.
-```
 
 ## Built With
 

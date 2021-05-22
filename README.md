@@ -26,7 +26,7 @@ Do Check my <a href="https://vatsalchheda.github.io/Vatsalchheda/" target="_blan
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/chheda_vatsal" target="_blank">
-<img src=https://img.shields.io/twitter/follow/chheda_vatsal?style=social alt=medium style="margin-bottom: 5px;" /></a>
+<img src=https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fchheda_vatsal alt=twitter style="margin-bottom: 5px;" /></a>
 
   <summary>:zap: GitHub Stats</summary>
 

@@ -25,8 +25,13 @@ Do Check my <a href="https://vatsalchheda.github.io/Vatsalchheda/" target="_blan
 <a href="https://www.instagram.com/vats_chheda/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/chheda_vatsal" target="_blank"><img src=https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+<a href="https://twitter.com/chheda_vatsal" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://drive.google.com/file/d/1Jq_lnEnHNAMr4PcTYhWK_gSX1kLVilHn/view?usp=sharingl" target="_blank">
+  <img src=https://img.shields.io/badge/resume-%23000000.svg?&style=for-the-badge&logo=bookstack&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
+</a>
+
 
 ### Skills:
 <p align="left"> 
